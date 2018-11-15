@@ -1,1 +1,3 @@
 # Polynom
+
+This code under develop...
