@@ -41,7 +41,7 @@ Use	a	ploynom	from	the	format	of	ax1^b	+	ax2^b	+	....	+	axn^b. (a	must	be	a	(dou
 # Example	run
 To	show	the	polynom	graph	you	must	type:
 ```
-Graph	'name'=new Graph(put your polynom	name,from(double x1),to	(double	x2);
+Graph	'name'=new Graph(put your polynom name,from(double x1),to	(double	x2);
 ‘name’=setVisible(true);"
 Example: "Graph	'name'=new Graph(p,-5,5);
 ‘name’=setVisible(true); 
